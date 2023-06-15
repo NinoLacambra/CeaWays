@@ -37,6 +37,7 @@ a {
 	outline: none;
 }
 
+
 a:hover,
 button:hover {
 	color: #515158;
@@ -571,7 +572,7 @@ button:focus {
 .content__meta-item {
 	display: inline-block;
 	padding: 0 0.25em;
-	color: white;
+	color: ;
 }
 
 .content__meta .icon {
@@ -642,7 +643,7 @@ button:focus {
 	font-size: 0.85em;
 	line-height: 1;
 	display: block;
-	padding: 1em;
+	padding: 2em;
 	color: #e4e4e4;
 }
 
@@ -706,25 +707,25 @@ button:focus {
 
 .grouped-by-category [data-category='1']:first-child::before,
 .grouped-by-category :not([data-category='1']) + [data-category='1']::before {
-	content: 'Nourish & Refresh';
+	content: 'First Floor';
 	color: #7cbf7f;
 }
 
 .grouped-by-category [data-category='2']:first-child::before,
 .grouped-by-category :not([data-category='2']) + [data-category='2']::before {
-	content: 'Learn & Create';
+	content: 'Second Floor';
 	color: #6584c7;
 }
 
 .grouped-by-category [data-category='3']:first-child::before,
 .grouped-by-category :not([data-category='3']) + [data-category='3']::before {
-	content: 'Swap & Give';
+	content: 'Third Floor';
 	color: #dc4b7c;
 }
 
 .grouped-by-category [data-category='4']:first-child::before,
 .grouped-by-category :not([data-category='4']) + [data-category='4']::before {
-	content: 'Relax & Recharge';
+	content: 'Fourth Floor';
 	color: #8d65e0;
 }
 
