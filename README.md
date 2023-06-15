@@ -4,7 +4,7 @@ An interactive 3D building map concept with a sidebar search and pin indicators 
 
 [Article on Codrops](http://tympanus.net/codrops/?p=26692)
 
-[Demo](http://tympanus.net/Development/Interactive3DMallMap/)
+[Demo](-----)
 
 ## License
 
