@@ -911,29 +911,28 @@ fill: #A4A4A4;
 .pin--1-17 { top: 24vmin; left: 37vmin; }
 
 /* Pins for floor 2 */
-.pin--2-1 { top: 52vmin; left: 90vmin; }
-.pin--2-2 { top: 17vmin; left: 90vmin; }
-.pin--2-3 { top: 10vmin; left: 73vmin; }
-.pin--2-4 { top: 10vmin; left: 60vmin; }
-.pin--2-5 { top: 10vmin; left: 53vmin; }
-.pin--2-6 { top: 10vmin; left: 46vmin; }
-.pin--2-7 { top: 10vmin; left: 37vmin; }
-.pin--2-8 { top: 10vmin; left: 29vmin; }
+.pin--2-1 { top: 50vmin; left: 87vmin; }
+.pin--2-2 { top: 25vmin; left: 87vmin; }
+.pin--2-3 { top: 10vmin; left: 78vmin; }
+.pin--2-4 { top: 10vmin; left: 71vmin; }
+.pin--2-5 { top: 10vmin; left: 65vmin; }
+.pin--2-6 { top: 10vmin; left: 59vmin; }
+.pin--2-7 { top: 10vmin; left: 48vmin; }
+.pin--2-8 { top: 10vmin; left: 33vmin; }
 .pin--2-9 { top: 10vmin; left: 18vmin; }
-.pin--2-10 { top: 25vmin; left: 5vmin; }
-.pin--2-11 { top: 40vmin; left: 5vmin; }
-.pin--2-12 { top: 62vmin; left: 19vmin; }
-.pin--2-13 { top: 62vmin; left: 32vmin; }
-.pin--2-14 { top: 62vmin; left: 38vmin; }
-.pin--2-15 { top: 62vmin; left: 46vmin; }
-.pin--2-16 { top: 62vmin; left: 60vmin; }
-.pin--2-17 { top: 62vmin; left: 75vmin; }
-.pin--2-18 { top: 43vmin; left: 78vmin; }
-.pin--2-19 { top: 33vmin; left: 78vmin; }
-.pin--2-20 { top: 42vmin; left: 38vmin; }
-.pin--2-21 { top: 35vmin; left: 38vmin; }
-.pin--2-22 { top: 28vmin; left: 38vmin; }
-.pin--2-23 { top: 30vmin; left: 18vmin; }
+.pin--2-10 { top: 23vmin; left: 5vmin; }
+.pin--2-11 { top: 52vmin; left: 5vmin; }
+.pin--2-12 { top: 62vmin; left: 16vmin; }
+.pin--2-13 { top: 62vmin; left: 29vmin; }
+.pin--2-14 { top: 62vmin; left: 45vmin; }
+.pin--2-15 { top: 62vmin; left: 59vmin; }
+.pin--2-16 { top: 62vmin; left: 75vmin; }
+.pin--2-17 { top: 46vmin; left: 76vmin; }
+.pin--2-18 { top: 37vmin; left: 76vmin; }
+.pin--2-19 { top: 47vmin; left: 36vmin; }
+.pin--2-20 { top: 36vmin; left: 36vmin; }
+.pin--2-21 { top: 27vmin; left: 36vmin; }
+.pin--2-22 { top: 33vmin; left: 16.5vmin; }
 
 /* Pins for floor 3 */
 .pin--3-1 { top: 52vmin; left: 90vmin; }
@@ -967,13 +966,33 @@ fill: #A4A4A4;
 
 
 /* Pins for floor 4 */
-.pin--4-1 { top: 55vmin; left: 21vmin; }
-.pin--4-2 { top: 18vmin; left: 20vmin; }
-.pin--4-3 { top: 21vmin; left: 88vmin; }
-.pin--4-4 { top: 52vmin; left: 74vmin; }
-.pin--4-5 { top: 33vmin; left: 38vmin; }
-.pin--4-6 { top: 39vmin; left: 56vmin; }
-.pin--4-7 { top: 58vmin; left: 10vmin; }
+.pin--4-1 { top: 56vmin; left: 85vmin; }
+.pin--4-2 { top: 48vmin; left: 85vmin; }
+.pin--4-3 { top: 34vmin; left: 85vmin; }
+.pin--4-4 { top: 17vmin; left: 85vmin; }
+.pin--4-5 { top: 9vmin; left: 12.5vmin; }
+.pin--4-6 { top: 9vmin; left: 19.5vmin; }
+.pin--4-7 { top: 9vmin; left: 35vmin; }
+.pin--4-8 { top: 9vmin; left: 44vmin; }
+.pin--4-9 { top: 9vmin; left: 48vmin; }
+.pin--4-10{ top: 9vmin; left: 58vmin; }
+.pin--4-11{ top: 9vmin; left: 74vmin; }
+.pin--4-12{ top: 35vmin; left: 8.5vmin; }
+.pin--4-13{ top: 63vmin; left: 13vmin; }
+.pin--4-14{ top: 63vmin; left: 19vmin; }
+.pin--4-15{ top: 63vmin; left: 24.5vmin; }
+.pin--4-16{ top: 63vmin; left: 30vmin; }
+.pin--4-17{ top: 63vmin; left: 35vmin; }
+.pin--4-18{ top: 63vmin; left: 41vmin; }
+.pin--4-19{ top: 63vmin; left: 47vmin; }
+.pin--4-20{ top: 63vmin; left: 52vmin; }
+.pin--4-21{ top: 63vmin; left: 61.5vmin; }
+.pin--4-22{ top: 63vmin; left: 75vmin; }
+.pin--4-23{ top: 46vmin; left: 75vmin; }
+.pin--4-24{ top: 35vmin; left: 75vmin; }
+.pin--4-25{ top: 46vmin; left: 75vmin; }
+.pin--4-26{ top: 33vmin; left: 38vmin; }
+.pin--4-27{ top: 33vmin; left: 38vmin; }
 
 /* Mobile compatability */
 .open-search,
