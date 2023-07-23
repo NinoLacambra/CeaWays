@@ -977,7 +977,7 @@ fill: #A4A4A4;
 .pin--4-9 { top: 9vmin; left: 48vmin; }
 .pin--4-10{ top: 9vmin; left: 58vmin; }
 .pin--4-11{ top: 9vmin; left: 74vmin; }
-.pin--4-12{ top: 35vmin; left: 8.5vmin; }
+.pin--4-12{ top: 38vmin; left: 8.5vmin; }
 .pin--4-13{ top: 63vmin; left: 13vmin; }
 .pin--4-14{ top: 63vmin; left: 19vmin; }
 .pin--4-15{ top: 63vmin; left: 24.5vmin; }
@@ -990,9 +990,9 @@ fill: #A4A4A4;
 .pin--4-22{ top: 63vmin; left: 75vmin; }
 .pin--4-23{ top: 46vmin; left: 75vmin; }
 .pin--4-24{ top: 35vmin; left: 75vmin; }
-.pin--4-25{ top: 46vmin; left: 75vmin; }
-.pin--4-26{ top: 33vmin; left: 38vmin; }
-.pin--4-27{ top: 33vmin; left: 38vmin; }
+.pin--4-25{ top: 25vmin; left: 17vmin; }
+.pin--4-26{ top: 38vmin; left: 17vmin; }
+.pin--4-27{ top: 37vmin; left: 36vmin; }
 
 /* Mobile compatability */
 .open-search,
