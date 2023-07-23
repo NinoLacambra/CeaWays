@@ -1896,6 +1896,11 @@
 		<script src="js/main.js"></script>
 		
 		<footer>
-			<p class="foot">&copy; 2023 CEAways Map</p>
+			<p class="foot">&copy; <span id="currentYear"></span> CEAways Map</p>
 		</footer>
+		<script>
+			// JavaScript code to update the current year dynamically
+			const currentYear = new Date().getFullYear();
+			document.getElementById("currentYear").textContent = currentYear;
+		</script>
 	</body>
